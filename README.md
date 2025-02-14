@@ -1,16 +1,28 @@
-# RegressaoLinearCasas
-Regressão Linear para estimar o preço 
+# Regressão Linear para Estimar o Preço das Casas  
 
-Desenvolver um modelo de regressão linear para prever o preço das casas com base nas variáveis fornecidas:
+Este projeto utiliza **Regressão Linear** para prever o preço de venda de casas com base em diversas variáveis.  
 
-• SalePrice: Preço de venda em dólares
-• Basement_Area: Área do porão em pés quadrados
-• Lot_Area: Tamanho do lote em pés quadrados
-• Heating_QC: Qualidade e condição do aquecimento
-• Season_Sold: Estação quando a casa foi vendida
-• Gr_Liv_Area: Área acima do nível do solo em pés quadrados
-• Garage_Area: Tamanho da garagem em pés quadrados
-• Deck_Porch_Area: Área total de decks e varandas em pés quadrados
-• Age_Sold: Idade da casa quando vendida, em anos
-• Bedroom_AbvGr: Quartos acima do nível do solo
-• Total_Bathroom: Número total de banheiros (meio banheiro contado como 10%)
+## 📌 Objetivo  
+Desenvolver um modelo preditivo para estimar o **preço de venda das casas** com base nas características fornecidas.  
+
+## 📊 Variáveis Utilizadas  
+
+- **`SalePrice`**: Preço de venda da casa (em dólares) 💲  
+- **`Basement_Area`**: Área do porão (em pés quadrados) 🏠  
+- **`Lot_Area`**: Tamanho do lote (em pés quadrados) 📏  
+- **`Heating_QC`**: Qualidade e condição do sistema de aquecimento 🔥  
+- **`Season_Sold`**: Estação do ano em que a casa foi vendida 🍂❄️🌷☀️  
+- **`Gr_Liv_Area`**: Área habitável acima do solo (em pés quadrados) 🏡  
+- **`Garage_Area`**: Tamanho da garagem (em pés quadrados) 🚗  
+- **`Deck_Porch_Area`**: Área total de decks e varandas (em pés quadrados) 🌿  
+- **`Age_Sold`**: Idade da casa no momento da venda (em anos) ⏳  
+- **`Bedroom_AbvGr`**: Número de quartos acima do nível do solo 🛏️  
+- **`Total_Bathroom`**: Número total de banheiros (meio banheiro conta como 10%) 🚿  
+
+## 🔧 Tecnologias Utilizadas  
+- Python 🐍  
+- Pandas 🟦  
+- Scikit-Learn 🤖  
+- Matplotlib 📊  
+
+## 📂 Estrutura do Projeto  
